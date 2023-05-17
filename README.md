@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# 💫 About Me:
 Hello! I'm Chandrakala Masiwal, a passionate and driven professional transitioning from a successful career in technical recruitment to pursuing my dream of becoming a software developer. With a strong foundation in JavaScript, ReactJs, HTML, and CSS, I am focused on honing my skills and expertise in full-stack web development.
 
+# 💫 About Me:
 My journey into the world of technology began during my tenure as a technical IT recruiter, where I had the opportunity to closely work with talented professionals in the field. This experience ignited a curiosity and passion within me to delve deeper into the technical aspects of software development. I am now dedicated to leveraging my recruitment expertise and combining it with my newfound technical skills to contribute to the creation of impactful and scalable products.
 
 I am a detail-oriented and analytical individual who thrives in challenging and dynamic environments. Throughout my career, I have cultivated strong teamwork and adaptability skills, allowing me to collaborate effectively with cross-functional teams and adapt to evolving project requirements. My strong work ethic and commitment to continuous learning enable me to stay updated with the latest technologies and industry trends.
