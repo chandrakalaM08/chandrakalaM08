@@ -28,7 +28,7 @@ A passionate and driven professional transitioning from a successful career in t
 
 ## 📊 GitHub Stats
 
-<img align="left" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=chandrakalaM08&theme=github-compact" height ="307" margin-bottom="10"/> 
+<img align="left" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=chandrakalaM08&theme=github-compact" height ="307" margin-bottom="17"/> 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=chandrakalaM08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
