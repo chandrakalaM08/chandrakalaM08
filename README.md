@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> there, I'm <span style="color: #447ED5">[Chandrakala Masiwal]("https://github.com/chandrakalaM08/chandrakalaM08.github.io")</span>
+
 Hello! I'm Chandrakala Masiwal, a passionate and driven professional transitioning from a successful career in technical recruitment to pursuing my dream of becoming a software developer. With a strong foundation in JavaScript, ReactJs, HTML, and CSS, I am focused on honing my skills and expertise in full-stack web development.
 
 # 💫 About Me:
