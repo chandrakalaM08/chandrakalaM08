@@ -15,7 +15,7 @@ A passionate and driven professional transitioning from a successful career in t
 - 🔭 I am a Full-Stack Web Developer and I love spending time with my cats in leisure time<br>
 - 👯 I’m looking to collaborate on real products while working for an organisation<br>
 - 💬 Ask me about Javascript , Frontend, or MERN Stack i would love to help<br>
-- 👨‍💻 Know more about me at [My Portfolio](https://chandrakalam08.github.io/)
+- 👨‍💻 Know more about me at [My Portfolio](https://chandrakalam08.github.io/) https://chandrakalam08.github.io/
 - 📫 You can reach out to me directly via 📲<a href="https://www.linkedin.com/in/masiwal-chandrakala/">LinkedIn</a> or can put a 📧 <a href="mailto:chandrakala.2508@gmail.com">Mail</a>
 
 
