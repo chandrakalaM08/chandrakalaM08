@@ -12,9 +12,10 @@
 A passionate and driven professional transitioning from a successful career in technical recruitment to pursuing my dream of becoming a software developer. With a strong foundation in JavaScript, ReactJs, HTML, and CSS, I am focused on honing my skills and expertise in full-stack web development.
 
 - 📖 I’m currently learning React Redux<br>
-- 🔭 I am a Full-Stack Web Developer and I love spending time with my cats in leisure time<br>
-- 👯 I’m looking to collaborate on real products while working for an organisation<br>
-- 💬 Ask me about Javascript , Frontend, or MERN Stack i would love to help<br>
+- 🔭 I am a Full-Stack Web Developer and I love spending time with my cats in my leisure time<br>
+- 👯 I’m looking to collaborate on real products while working for an organization <br>
+- 💬 Ask me about Javascript, Frontend, or MERN Stack I would love to help<br>
+- 💼 My Portfolio - https://chandrakalam08.github.io/
 - 👨‍💻 Know more about me at [My Portfolio](https://chandrakalam08.github.io/) 
 - 📫 You can reach out to me directly via 📲<a href="https://www.linkedin.com/in/masiwal-chandrakala/">LinkedIn</a> or can put a 📧 <a href="mailto:chandrakala.2508@gmail.com">Mail</a>
 
